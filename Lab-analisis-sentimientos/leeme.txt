@@ -1,0 +1,2 @@
+Tarea 1: Importar librerías 
+Ahora vamos a descargar el archivo extensión .ipynb y el Excel con finalizado con la palabra “_esp” o en "_BR" segun el caso.
